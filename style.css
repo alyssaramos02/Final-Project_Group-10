@@ -1,0 +1,205 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:600);
+@import url('https://fonts.googleapis.com/css?family=Abel|Bubbler+One|Inconsolata');
+/* Slider */
+.one-time {
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.slick-prev:before,
+.slick-next:before {
+    color: #e75480; /* Soft magenta for arrows */
+}
+
+.one-time img {
+    width: 100%;          /* Make the images fill the container width */
+    height: auto;         /* Adjust height automatically to maintain aspect ratio */
+    object-fit: contain;  /* Prevent cropping */
+}
+.navbar-default {
+    background-color: #f9c8d6; /* Light pastel pink background */
+    border-color: #e6a3b5; /* Subtle darker border */
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #5b4b40; /* Neutral dark brown for clarity */
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+    color: #ffe3ed; /* Light pastel hover effect */
+}
+
+/* Body */
+body {
+    font-family: Abel;
+    font-size: 150%;
+    font-weight: bold;
+    background-color: #fff5f8; /* Very light pink for background */
+    color: #5b4b40; /* Neutral text for readability */
+}
+
+/* Top Navigation */
+#topnav {
+    height: 70px;
+    background-color: #f9c8d6; /* Consistent light pastel pink */
+    border-bottom: 3px solid #e6a3b5; /* Subtle darker border */
+}
+
+#topnav > * {
+    position: relative;
+    top: 7px;
+}
+
+/* Search Bar */
+#search {
+    position: relative;
+    left: 300px;
+    background-color: #fff; /* White input for contrast */
+    border: 2px solid #f9c8d6; /* Pastel pink border */
+    color: #5b4b40; /* Neutral text */
+    border-radius: 5px;
+}
+
+#search_btn {
+    position: relative;
+    left:300px;
+    background-color: #f9c8d6; /* Pastel pink button */
+    border-color: #e6a3b5; /* Matching border */
+    color: #5b4b40; /* Neutral text */
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+#search_btn:hover {
+    background-color: #e6a3b5; /* Slightly darker pink on hover */
+    border-color: #c87d92;
+}
+
+/* Shopping Cart */
+#shoppingcart {
+    position: relative;
+}
+
+#shoppingcart .badge {
+    background-color: #e6a3b5; /* Muted pink for badge */
+    color: #fff; /* White text */
+}
+
+/* Panel Styling */
+.panel-info > .panel-heading {
+    background-color: #f9c8d6; /* Consistent pastel pink header */
+    border-color: #e6a3b5; /* Subtle darker pink border */
+    color: #5b4b40; /* Neutral text */
+}
+
+.panel-info {
+    border-color: #e6a3b5; /* Consistent border */
+}
+
+.panel-footer {
+    background-color: #fff5f8; /* Main background color */
+    color: #5b4b40; /* Neutral text */
+}
+
+/* Modal */
+.modal-header {
+    background-color: #f9c8d6; /* Light pastel pink header */
+    color: #5b4b40; /* Neutral text */
+}
+
+.modal-footer {
+    background-color: #fff5f8; /* Light pink footer */
+    color: #5b4b40;
+}
+
+/* Buttons */
+button, input[type="button"], input[type="submit"] {
+    background-color: #f9c8d6; /* Pastel pink button background */
+    color: #5b4b40; /* Neutral text */
+    border: 2px solid #e6a3b5; /* Matching border */
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+button:hover, input[type="button"]:hover, input[type="submit"]:hover {
+    background-color: #e6a3b5; /* Slightly darker pink on hover */
+    border-color: #c87d92;
+}
+/* Navbar */
+.navbar-default {
+    background-color: #f9c8d6; /* Light pastel pink */
+    border-color: #e6a3b5; /* Subtle darker pink */
+}
+
+.navbar-default .navbar-brand {
+    color: #5b4b40; /* Neutral dark text for contrast */
+    font-family: "Open Sans", sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.navbar-default .navbar-brand:hover {
+    color: #e6a3b5; /* Slightly darker pastel pink */
+}
+
+/* Panel */
+.panel-primary {
+    border-color: #f9c8d6; /* Light pastel pink */
+}
+
+.panel-primary > .panel-heading {
+    background-color: #f9c8d6; /* Light pastel pink */
+    color: #5b4b40; /* Neutral dark text */
+    font-weight: bold;
+}
+
+.panel-footer {
+    background-color: #ffe6f2; /* Very light pastel pink */
+    color: #5b4b40; /* Neutral text */
+}
+
+/* Buttons */
+button#checkout_btn {
+    background-color: #f9c8d6; /* Pastel pink */
+    border-color: #e6a3b5; /* Slightly darker pink border */
+    color: #5b4b40; /* Neutral dark text */
+}
+
+button#checkout_btn:hover {
+    background-color: #e6a3b5; /* Slightly darker pastel pink on hover */
+    border-color: #d47285;
+}
+
+/* Body */
+body {
+    background-color: #fff5f8; /* Very light pastel pink */
+    font-family: "Abel", sans-serif;
+    color: #5b4b40; /* Neutral dark text */
+}
+
+/* Style for the 'View Cart' button inside the dropdown */
+.panel-footer .btn-info {
+    background-color: #f9c8d6; /* Light pastel pink */
+    border-color: #e6a3b5; /* Light pink border */
+    color: #5b4b40; /* Dark text color */
+}
+
+.panel-footer .btn-info:hover {
+    background-color: #e6a3b5; /* Slightly darker pink on hover */
+    border-color: #d47285;
+}
+.navbar-logo {
+    height: 45px;    /* Adjust height as needed */
+    width: auto;     /* Automatically adjust width to maintain aspect ratio */
+}
+    #get_cat {
+        background-color: #f8f9fa; /* Light background */
+        padding: 20px;  /* Add padding around the content */
+        border-radius: 8px; /* Rounded corners */
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add subtle shadow */
+        color: black;  /* Set text color to black for all content inside #get_cat */
+      }
+      
+      

@@ -1,12 +1,12 @@
 A QUICK AND EASY SHOPPING CART SYSTEM OF CURLYTOPS ONLINE SHOP 
 MADE BY GROUP 10
 RAMOS,ALYSSA ANDREA
-MOLETA, LANIERI
-MALIC , JOHN WENGELBERT 
+MOLETA,LANIERI
+MALIC,JOHN WENGELBERT 
 
 WEBSITE PHOTOS :
 
-![image](https://github.com/user-attachments/assets/d57d58ad-f859-4d89-a513-f048bad641a0)![image](https://github.com/user-attachments/assets/3a90e025-43c1-4ef8-af33-4c5e8eb38ace)
+
 ![image](https://github.com/user-attachments/assets/b067f9a0-50ee-4ee5-beb0-7f6e72194632)
 ![image](https://github.com/user-attachments/assets/2a1d7d1f-9186-472f-8e21-b670022c2901)
 ![image](https://github.com/user-attachments/assets/f3755663-8566-4db7-87b3-c3490caff316)
